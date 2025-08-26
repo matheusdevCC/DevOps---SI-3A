@@ -1,2 +1,4 @@
 # Desenvolvimento-e-Opera-o---DevOps
-Esse repositório está destinado para atividades relacionado a disciplina Ambiente de Desenvolvimento e Operação - DevOps
+- **Nome:** Matheus Borges Sampaio  
+- **RA:** 2500405	
+- **LinkedIn:** [linkedin.com/in/matheus-borges-ab58b12](https://www.linkedin.com/in/matheus-borges-ab58b1249/)
