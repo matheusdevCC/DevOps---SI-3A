@@ -1,6 +1,6 @@
 <!-- Banner Naruto -->
 <p align="center">
-  <img src="https://preview.redd.it/who-has-the-most-aura-in-naruto-v0-bq3wtmsaa1ld1.jpg?width=640&crop=smart&auto=webp&s=ba388d1f8183aedb67251d32cb4cc4f121ced6b6" alt="Naruto Banner" width="100%" />
+  <img src="https://preview.redd.it/who-has-the-most-aura-in-naruto-v0-bq3wtmsaa1ld1.jpg?width=640&crop=smart&auto=webp&s=ba388d1f8183aedb67251d32cb4cc4f121ced6b6" alt="Naruto Banner" width="70%" />
 </p>
 
 # 🛠️ Desenvolvimento e Operação — DevOps
